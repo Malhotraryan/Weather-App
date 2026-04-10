@@ -17,4 +17,5 @@ A responsive web application that provides real-time weather updates with dynami
 - OpenWeather API  
 
 ## 📸 Screenshot
-![Weather App UI](https://malhotraryan.github.io/Weather-App/)
+![Weather App UI](<"https://github.com/user-attachments/assets/c5d536e9-2b88-4965-b900-a5480d9c6dee" />
+)
